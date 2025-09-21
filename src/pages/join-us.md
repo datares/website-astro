@@ -1,7 +1,8 @@
 ---
 layout: ../layouts/SimpleLayout.astro
 title: Join our team!
-subtitle: Applications for Spring 2025 have closed! Please come back for the 2025-2026 school year for fall applications to ANY team!
+subtitle: Applications for ALL teams for Fall 2025 are now live! 
+The application is linked [HERE](https://docs.google.com/forms/d/e/1FAIpQLScNtq1lRsCYWVepaKJ7sSJSU6srM0p4IklC1PA3MCKWUFWs4A/viewform)!
 ---
 
 
