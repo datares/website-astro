@@ -4,7 +4,7 @@ title: Join our team!
 subtitle: Applications for ALL teams for Fall 2025 are now live!
 ---
 
-The application is linked [HERE](https://docs.google.com/forms/d/e/1FAIpQLScNtq1lRsCYWVepaKJ7sSJSU6srM0p4IklC1PA3MCKWUFWs4A/viewform)!
+The application for ALL TEAMS in fall 2025 is linked [HERE](https://docs.google.com/forms/d/e/1FAIpQLScNtq1lRsCYWVepaKJ7sSJSU6srM0p4IklC1PA3MCKWUFWs4A/viewform)!
 
 # Follow Us!
 
