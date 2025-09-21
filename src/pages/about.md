@@ -8,9 +8,9 @@ subtitle: DataRes is UCLA's first and largest student organization dedicated to 
 
 ## Fall 2025 Application Timeline: 
 
-1. Applications released: **September 23, 2025**
-2. Applications due: **October 4, 2025 @ 11:59 pm PT**.
-3. Decisions Released: **End of Week 2**.
+1. Applications released: **September 22, 2025**
+2. Applications due: **October 3, 2025 @ 11:59 pm PT**.
+3. Decisions Released: **October 10, 2025**.
 
 
 # Frequently Asked Questions
