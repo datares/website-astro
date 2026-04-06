@@ -1,9 +1,10 @@
 ---
 const color = Astro.props.color ? Astro.props.color : "bg-slate-700";
 const invert = Astro.props.invert ? "" : "prose-invert";
+const fullBleed = Astro.props.fullBleed ? true : false;
 ---
-<div class={`py-20 px-10 ${color}`}>
-  <div class={`mx-auto prose ${invert}`}>
+<div class={`${fullBleed ? "py-6 px-4 sm:px-6 lg:px-8" : "py-20 px-10"} ${color}`}>
+  <div class={`${fullBleed ? "w-full" : "mx-auto prose"} ${invert}`}>
     <slot />
   </div>
 </div>

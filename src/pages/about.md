@@ -6,11 +6,13 @@ subtitle: DataRes is UCLA's first and largest student organization dedicated to 
 
 # Apply Today!
 
-## Fall 2025 Application Timeline: 
+## General Application Timeline: 
+Every quarter, our application timeline roughly follows:
 
-1. Applications released: **September 22, 2025**
-2. Applications due: **October 3, 2025 @ 11:59 pm PT**.
-3. Decisions Released: **October 10, 2025**.
+1. Applications released: **Week 1**
+2. Applications due: **End of Week 1**.
+3. Interviews: **Week 2**
+3. Decisions Released: **Beginning of Week 3**.
 
 
 # Frequently Asked Questions
@@ -29,7 +31,7 @@ What teams does DataRes have?
 
 ## How many active members does DataRes have?
 
-After Spring quarter 2025, we have over 300 active members across all teams
+After Spring quarter 2025, we have over 120 active members across all teams.
 
 ## Where have past DataRes members worked as interns/full-time?
 
@@ -37,6 +39,6 @@ Our members have gone on to work as data scientists, machine learning engineers,
 
 ## How many teams can I apply to?
 
-You may only submit one application and choose one team to apply to. Applying more than once will disqualify your application.
+Most quarters, you may only submit one application and choose one team to apply to. 
 
-If you have any additional questions, please email us at: datares@ucla.edu
+If you have any additional questions, please email us at: datares@ucla.edu.
