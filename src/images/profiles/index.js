@@ -1,168 +1,151 @@
-//presidents
-import dshi from "./dshi.jpg";
-import daniel from "./daniel.jpg";
+import jordan from "./jordan_nguyen.jpg";
+import jessicaYao from "./jessica_yao.jpg";
+import seanGee from "./sean_gee.jpg";
 
-//marketing/design
-import kennedy from "./kennedy.jpg";
-import karen from "./karen.jpg";
+import bouchraAlioua from "./bouchra_alioua.jpg";
+import lukeOwyang from "./luke_owyang.jpg";
+import vanessaMan from "./vanessa_man.jpg";
+import jamesClawson from "./james_clawson.jpg";
+import kathyNguyen from "./kathy_nguyen.jpg";
+import jeffreyLiu from "./jeffrey_liu.jpg";
+import allisonSeteono from "./allison_seteono.jpg";
+import aparnaPetluri from "./aparna_petluri.jpg";
 
-//outreach heads
-import mingyang from "./mingyang.jpg";
-import nathan from "./nathan.jpg";
-
-//finance heads
-import jessica from "./jessica.jpg"
-import max from "./maxxu.jpg"
-
-//membership heads
-import queenie from "./queenie.jpg";
-import kathy from "./kathy.jpg";
-
-//data teach heads
-import connie from "./connie.jpg";
-import kelly from "./kelly.jpg"; 
-
-//data blog heads
-import sean from "./seang.jpg";
-import jordan from "./jordan.jpg"
-
-//research heads
-import yulia from "./yulia.jpg"
-import daniela from "./daniela.jpg"; 
-
-//data learn heads
-import sankeerth from "./sunny.jpg"
-import olivia from "./olivia.jpg";
-
-//consulting heads
-import aidan from "./aidan.jpg";
-import kevin from "./kevin.jpg";
+import phietTran from "./phiet_tran.jpg";
+import faithKim from "./faith_kim.jpg";
+import angieWang from "./angie_wang.jpg";
+import nathanOkun from "./nathan_okun.jpg";
+import anthonyZhao from "./anthony_zhao.jpg";
+import jessicaYe from "./jessica_ye.jpg";
+import agniGeejo from "./agni_geejo.jpg";
+import yuliaAnashkina from "./yulia_anashkina.jpg";
+import danielaVartani from "./daniela_vartani.jpg";
 
 export const executive = [
   {
-    image: daniel,
-    name: "Daniel Wang",
+    image: jordan,
+    name: "Jordan Nguyen",
     role: "President",
-    href: "https://www.linkedin.com/in/danielwang22/",
+    href: "#",
   },
   {
-    image: dshi,
-    name: "Derek Shi",
-    role: "President",
-    href: "https://www.linkedin.com/in/derek-shi-6331672aa",
+    image: jessicaYao,
+    name: "Jessica Yao",
+    role: "IVP",
+    href: "#",
+  },
+  {
+    image: seanGee,
+    name: "Sean Gee",
+    role: "EVP",
+    href: "#",
   },
 ];
 
 export const management = [
   {
-    image: kennedy,
-    name: "Kennedy Hayashi",
-    role: "Co-Design/Marketing Head",
-    href: "https://www.linkedin.com/in/kennedy-hayashi/",
+    image: bouchraAlioua,
+    name: "Bouchra Alioua",
+    role: "Finance",
+    href: "#",
   },
   {
-    image: karen,
-    name: "Karen Wang",
-    role: "Co-Design/Marketing Head",
-    href: "https://www.linkedin.com/in/karen-wang-01a78732b/",
+    image: lukeOwyang,
+    name: "Luke Owyang",
+    role: "Finance",
+    href: "#",
   },
   {
-    image: mingyang,
-    name: "Mingyang Li",
-    role: "Co-Outreach Head",
-    href: "https://www.linkedin.com/in/li-ming-yang/",
+    image: jamesClawson,
+    name: "James Clawson",
+    role: "Social",
+    href: "#",
   },
   {
-    image: nathan,
-    name: "Nathan Chen",
-    role: "Co-Outreach Head",
-    href: "https://www.linkedin.com/in/nathanschen/",
-  },
-  {
-    image: jessica,
-    name: "Jessica Yao",
-    role: "Co-Finance Head",
-    href: "https://www.linkedin.com/in/jessica-yao5/",
-  },
-  {
-    image: max,
-    name: "Max Xu",
-    role: "Co-Finance Head",
-    href: "https://www.linkedin.com/in/maxxu24/",
-  },
-  {
-    image: queenie,
-    name: "Queenie Wu",
-    role: "Co-Membership Head",
-    href: "https://www.linkedin.com/in/queenie-wu/",
-  },
-  {
-    image: kathy,
+    image: kathyNguyen,
     name: "Kathy Nguyen",
-    role: "Co-Membership Head",
-    href: "https://www.linkedin.com/in/nguyenkathyk/",
-  }
+    role: "Social",
+    href: "#",
+  },
+  {
+    image: jeffreyLiu,
+    name: "Jeffrey Liu",
+    role: "Membership",
+    href: "#",
+  },
+  {
+    image: allisonSeteono,
+    name: "Allison Seteono",
+    role: "Membership",
+    href: "#",
+  },
+  {
+    image: aparnaPetluri,
+    name: "Aparna Petluri",
+    role: "Marketing",
+    href: "#",
+  },
+  {
+    image: vanessaMan,
+    name: "Vanessa Man",
+    role: "Outreach",
+    href: "#",
+  },
 ];
 
 export const team = [
   {
-    image: sankeerth,
-    name: "Sankeerth Gandhari",
-    role: "Co-DataLearn Head",
-    href: "https://www.linkedin.com/in/sankeerthgandhari/",
+    image: phietTran,
+    name: "Phiet Tran",
+    role: "Learn",
+    href: "#",
   },
   {
-    image: olivia,
-    name: "Olivia Nguyen",
-    role: "Co-DataLearn Head",
-    href: "https://www.linkedin.com/in/olivianguyen324/",
+    image: faithKim,
+    name: "Faith Kim",
+    role: "Learn",
+    href: "#",
   },
   {
-    image: sean,
-    name: "Sean Gee",
-    role: "Co-Blog Head",
-    href: "https://www.linkedin.com/in/sean-gee-682966274/",
+    image: angieWang,
+    name: "Angie Wang",
+    role: "Blog",
+    href: "#",
   },
   {
-    image: jordan,
-    name: "Jordan Nguyen",
-    role: "Co-Blog Head",
-    href: "https://www.linkedin.com/in/nguyenlejordan/",
+    image: nathanOkun,
+    name: "Nathan Okun",
+    role: "Blog",
+    href: "#",
   },
   {
-    image: aidan,
-    name: "Aidan Nguyen",
-    role: "Co-Consulting Head",
-    href: "https://www.linkedin.com/in/nguyenaidan/",
+    image: anthonyZhao,
+    name: "Anthony Zhao",
+    role: "Consulting",
+    href: "#",
   },
   {
-    image: kevin,
-    name: "Kevin Ngo",
-    role: "Co-Consulting Head",
-    href: "https://www.linkedin.com/in/kevin-ngo000/",
+    image: jessicaYe,
+    name: "Jessica Ye",
+    role: "Consulting",
+    href: "#",
   },
   {
-    image: daniela,
-    name: "Daniela Vartani",
-    role: "Co-Research Head",
-    href: "https://www.linkedin.com/in/daniela-vartani-4102a5221/",
-  },
-  {
-    image: yulia,
+    image: yuliaAnashkina,
     name: "Yulia Anashkina",
-    role: "Co-Research Head",
-    href: "https://www.linkedin.com/in/yuliaanashkina/",
+    role: "Research",
+    href: "#",
   },
   {
-    image: connie,
-    name: "Connie Gao",
-    role: "Co-DataTeach Head",
-    href: "https://www.linkedin.com/in/connie-gao/",
+    image: danielaVartani,
+    name: "Daniela Vartani",
+    role: "Research",
+    href: "#",
   },
   {
-    image: kelly,
-    name: "Kelly Cheng",
-    role: "Co-DataTeach Head",
-    href: "https://www.linkedin.com/in/kelly-chengg/",
-  }
+    image: agniGeejo,
+    name: "Agni Geejo",
+    role: "Teach",
+    href: "#",
+  },
 ];
